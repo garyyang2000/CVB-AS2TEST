@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InnoOrderTrackSys", "InnoOrderTrackSys\InnoOrderTrackSys.vbproj", "{773F6B4E-D9A8-4EFE-86B7-C0FC1E22D253}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DLL_Library", "..\..\..\..\Documents\Seneca DAD\CVB\CVB-AS2\DLL_Library\DLL_Library.vbproj", "{1A0BCCC4-5680-4841-ADFE-81A4FBBE0046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLib", "..\..\..\..\Documents\Seneca DAD\CVB\CVB-AS2\CSLib\CSLib.csproj", "{D0EFE6FA-0388-4129-8C5C-945FAD953087}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DBManager", "..\..\..\..\Documents\Seneca DAD\CVB\CVB-AS2\DBManager\DBManager.vbproj", "{31C4B360-D4FA-449B-ACE8-D854CF801F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773F6B4E-D9A8-4EFE-86B7-C0FC1E22D253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773F6B4E-D9A8-4EFE-86B7-C0FC1E22D253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773F6B4E-D9A8-4EFE-86B7-C0FC1E22D253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773F6B4E-D9A8-4EFE-86B7-C0FC1E22D253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0BCCC4-5680-4841-ADFE-81A4FBBE0046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0BCCC4-5680-4841-ADFE-81A4FBBE0046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0BCCC4-5680-4841-ADFE-81A4FBBE0046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0BCCC4-5680-4841-ADFE-81A4FBBE0046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0EFE6FA-0388-4129-8C5C-945FAD953087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EFE6FA-0388-4129-8C5C-945FAD953087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EFE6FA-0388-4129-8C5C-945FAD953087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EFE6FA-0388-4129-8C5C-945FAD953087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C4B360-D4FA-449B-ACE8-D854CF801F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C4B360-D4FA-449B-ACE8-D854CF801F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C4B360-D4FA-449B-ACE8-D854CF801F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C4B360-D4FA-449B-ACE8-D854CF801F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
